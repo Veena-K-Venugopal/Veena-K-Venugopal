@@ -1,7 +1,8 @@
 ### Hi there, I'm Veena 👋
 
 🔍 **Data Analyst | Python • SQL • Tableau | ML Enthusiast**  
-📍 Dallas, TX | 🌐 [LinkedIn](https://www.linkedin.com/in/veenakvenugopal) | 🛠️ [GitHub](https://github.com/Veena-K-Venugopal)
+📍 Dallas, TX | 🌐 [LinkedIn](https://www.linkedin.com/in/veenakvenugopal) | 🛠️ [GitHub](https://github.com/Veena-K-Venugopal) | 🧩 [LeetCode](https://leetcode.com/u/VeenaKV/)
+
 
 ---
 
