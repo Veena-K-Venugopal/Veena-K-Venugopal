@@ -10,7 +10,7 @@ I’m building a portfolio that reflects my transition into roles at the interse
 
 ---
 
-## 🧠 Super Cool Projects (In Progress)
+## 🚧 Ongoing & Completed Projects
 
 🚑 **Healthcare API Enhancer**  
 Expanding a FastAPI project with LLM-powered symptom summarization, structured EHR outputs, and smart triaging recommendations.
