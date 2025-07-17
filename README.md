@@ -50,10 +50,10 @@ Preprocessed sample tickets using NLP tokenization (TF-IDF + Logistic Regression
 📊 **Mini Pretraining Tracker**  
 Simulated training logs across mock data batches. Visualized learning rate shifts and overfitting signs with Pandas + Matplotlib.
 
-🧹 **Pretraining Data Sampler & Cleaner** (In Progress)  
+🧹 **Pretraining Data Sampler & Cleaner**   
 Built a filter/sampler pipeline for LLM-scale datasets using Hugging Face Datasets. Removes noisy records and logs dataset stats.
 
-🔣 **Token Frequency Visualizer** (In Progress)  
+🔣 **Token Frequency Visualizer**   
 Analyzes token distributions from various tokenizers. Flags high-entropy and rare tokens to guide better dataset design.
 
 ---
