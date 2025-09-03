@@ -1,92 +1,76 @@
 # Hi there, I'm Veena 👋  
+
 **Aspiring AI/ML Engineer | Data & Cloud Enthusiast | Builder of Super Cool Projects**  
-📍 Dallas, TX | 🌐 [LinkedIn](www.linkedin.com/in/veenakvenugopal) | 🛠️ [GitHub](https://github.com/Veena-K-Venugopal) | 🧩 [LeetCode](https://leetcode.com/u/VeenaKV/)
+📍 Dallas, TX | 🌐 [LinkedIn](your-link) | 🛠️ [GitHub](your-link) | 🧩 [LeetCode](your-link)  
 
 ---
 
-I'm a data-driven problem solver with 3+ years of experience in IT and data analysis, blending curiosity with code to solve real-world problems. I currently work as an IT Support/ Business Analyst where I actively apply Python, SQL, and Splunk to monitor customer trends and improve system performance.
+## 🚀 About Me  
+I’m a data-driven problem solver with 4+ years of IT + data experience, now transitioning into **AI/ML, Cloud, and Data Engineering**.  
 
-I’m building a portfolio that reflects my transition into roles at the intersection of **AI, machine learning, cloud computing, and data engineering** — with a strong emphasis on clean design, LLM integration, and impactful use cases.
+Currently on a **3–4 month build sprint** to create a portfolio of real-world, deployable projects that highlight:  
+- ML model integration with APIs  
+- Data pipelines + dashboards  
+- Cloud deployment (AWS)  
+- LLM and agent-based systems  
 
 ---
 
-## 🚧 Ongoing & Completed Projects
+## 🧩 Featured Projects (Work in Progress)  
 
-🚑 **Healthcare API Enhancer**  
-Expanding a FastAPI project with LLM-powered symptom summarization, structured EHR outputs, and smart triaging recommendations.
+🚑 **Healthcare API Enhancer** *(Flagship Project)*  
+FastAPI microservice with ML predictions, LLM-powered symptom summarization, and triaging logic.  
+_Status: Phase 2 (ML model integration in progress)_  
 
-📄 **Smart Resume Ranker**  
-Uses OpenAI Embeddings + FAISS to score resume–job matches and highlight optimization suggestions. Built with Streamlit.
+📊 **Real-Time Pricing Dashboard**  
+Python + PostgreSQL ETL pipeline with a React dashboard for liquor pricing trends.  
+_Status: ETL + dashboard skeleton planned (starting October 2025)_  
 
-💬 **Chat with Docs (RAG Bot)**  
-Upload docs and ask questions — a chatbot built with LangChain + vector search over your data (RAG pipeline project).
-
-📊 **Real-time Pricing Dashboard**  
-Scrapes and visualizes liquor pricing trends using Python, PostgreSQL, and React dashboards. Includes trend alerts and auto-refreshing data.
-
-🧠 **Customer Churn Prediction**  
-Predicting churn using classification models and behavior patterns from mock customer data. Includes EDA and explainability.
-
-📈 **Budget Tracker with ML Insights**  
-Tracks personal expenses and flags risky spending patterns using ML forecasting and simple NLP.
-
-🤖 **Liquor Store Chatbot**  
-A customer-facing assistant built with Dialogflow and Flask — recommends products, checks inventory, and handles common queries.
+🤖 **GPT Agent Orchestration (MCP-enabled)**  
+LangChain multi-agent workflow that processes resumes and documents with vector search + MCP.  
+_Status: Architecture drafted, coding planned_  
 
 🌩️ **AWS Cloud Cost Optimizer**  
-Monitors usage and sends alerts via SNS when thresholds are exceeded. Uses AWS Lambda + DynamoDB.
+Lambda + DynamoDB tool that monitors AWS usage and sends SNS alerts.  
+_Status: MVP planned for September 2025_  
 
-🌐 **Social Sentiment Dashboard**  
-Live sentiment analysis of tweets or Reddit threads on trending topics using Hugging Face models and chart visualizations.
+---
 
-🔬 **Quantum Concepts Visualizer** (Paused)  
-Exploring Qiskit basics to develop visual and interactive learning tools for quantum intuition.
+## 🔎 Practice & Prototype Repos  
 
-🧬 **LLM Data & Pretraining Experiments**
+📚 **SQL Practice** → [sql-practice](https://github.com/Veena-K-Venugopal/sql-practice)  
+Solutions to SQL interview-style problems (DataLemur, LeetCode). Well-documented with inline comments.  
 
-📑 **Billing Ticket Classifier (Token-Based)**  
-Preprocessed sample tickets using NLP tokenization (TF-IDF + Logistic Regression). Iteratively improved taxonomy and tracked misclassifications.
+📑 **Billing Ticket Classifier**  
+Prototype NLP workflow using TF-IDF + Logistic Regression for simple classification tasks.  
 
 📊 **Mini Pretraining Tracker**  
-Simulated training logs across mock data batches. Visualized learning rate shifts and overfitting signs with Pandas + Matplotlib.
+Simulated training logs across mock data batches, visualized overfitting markers with Pandas + Matplotlib.  
 
-🧹 **Pretraining Data Sampler & Cleaner**   
-Built a filter/sampler pipeline for LLM-scale datasets using Hugging Face Datasets. Removes noisy records and logs dataset stats.
+🧹 **Pretraining Data Cleaner**  
+Filtering/sampling pipeline using Hugging Face Datasets (deduplication + entry length filtering).  
 
-🔣 **Token Frequency Visualizer**   
-Analyzes token distributions from various tokenizers. Flags high-entropy and rare tokens to guide better dataset design.
-
----
-
-## 🧰 Tools & Technologies
-
-**Languages:** Python • SQL • Java • C • C++  
-**Data Analysis & ML:** Pandas • NumPy • scikit-learn • Seaborn • Matplotlib  
-**LLM/NLP:** OpenAI API • Hugging Face • LangChain • FAISS  
-**Frontend:** Streamlit • HTML • CSS • React (in progress)  
-**Cloud:** AWS (Studying for Cloud Practitioner) • Render • Firebase  
-**Databases:** PostgreSQL • SQLite • Supabase  
-**Monitoring & Viz:** Splunk • Tableau • Grafana  
-**Version Control:** Git & GitHub  
-**Soft Skills:** Problem-solving • Clear Communication • Agile & Self-led Dev Practices
+🔣 **Token Frequency Visualizer**  
+Analyzes token distributions from pretrained tokenizers. Highlights entropy + rare/overrepresented tokens.  
 
 ---
 
-## 🌱 Currently Learning
-- 🧠 OpenAI APIs & RAG pipelines  
-- ☁️ AWS Cloud Practitioner Certification  
-- 📈 Google Data Analytics Certificate  
-- 🧠 System Design and Data Structures (Python)
+## 🧰 Tech Stack  
+**Languages**: Python, SQL, Java, C, C++  
+**ML/AI**: NumPy, Pandas, scikit-learn, Hugging Face, LangChain, FAISS  
+**Cloud/Infra**: AWS (Lambda, ECS, S3, Redshift), Render, Firebase  
+**Data**: PostgreSQL, SQLite, Supabase  
+**Visualization**: Streamlit, Tableau, Grafana, Matplotlib, Seaborn  
+**DevOps**: Git/GitHub, Docker (in progress), CI/CD basics  
 
 ---
 
-## 🎯 Goals for 2025
-- ✅ Transition into an AI/ML, Cloud, or Data Engineering role  
-- 🚀 Build production-ready projects with strong UX & smart systems  
-- 🌎 Contribute to open-source or impactful research  
-- 🗣️ Share knowledge through writing, speaking, or visual explainers  
+## 🌱 Currently Learning  
+- 📈 **DSA + System Design in Python**  
+- ☁️ **AWS Cloud Practitioner Certification**  
+- 🧠 **LLM pipelines (LangChain, MCP, vector search)**  
 
 ---
 
-📬 **Reach me**: vkvenu10@gmail.com  
-🤝 Let’s collaborate, learn, or just talk tech!
+📬 Reach me: **vkvenu10@gmail.com**  
+🤝 Let’s collaborate, learn, or just talk tech!  
