@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner: Hi I'm Veena. Building the bridge between AI, Cloud, and Real-World Systems." width="100%">
+  <img src="assets/banner.png" alt="Veena GitHub Banner" width="100%">
 </p>  
 
-**AI/ML × Cloud × Data Engineering — turning real-world challenges into deployable systems.**  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Practical+AI+Systems;Exploring+Cloud+Deployments;Turning+Ideas+into+Working+Code;Learning+One+Project+at+a+Time" alt="Typing SVG" />
+</p>
+
+**Building the bridge between ideas and deployable intelligence.**  
 📍 Dallas, TX  
 🌐 [LinkedIn](https://www.linkedin.com/in/veenakvenugopal/) · 🧠 [Portfolio](https://veena-dev.netlify.app/) · 🧩 [LeetCode](https://leetcode.com/u/VeenaKV/)  
 
@@ -222,6 +226,23 @@ Streamlit dashboards · Data exploration · Reporting
 
 Git branching · PRs · tagging · release management  
 Markdown documentation · Devpost-style storytelling
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Veena-K-Venugopal&show_icons=true&theme=radical" alt="Veena's GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veena-K-Venugopal&layout=compact&theme=radical" height="165">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Veena-K-Venugopal&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Veena-K-Venugopal&style=flat-square&color=blue" alt="Profile views counter"/>
+</p>
 
 ---
 
