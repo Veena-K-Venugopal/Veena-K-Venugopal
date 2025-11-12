@@ -7,6 +7,7 @@
 </p>
 
 **Building the bridge between ideas and deployable intelligence.**  
+<br>
 📍 Dallas, TX  
 🌐 [LinkedIn](https://www.linkedin.com/in/veenakvenugopal/) · 🧠 [Portfolio](https://veena-dev.netlify.app/) · 🧩 [LeetCode](https://leetcode.com/u/VeenaKV/)  
 
@@ -218,7 +219,7 @@ Streamlit dashboards · Data exploration · Reporting
 **Tools & Workflow**  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" style="background-color:white;border-radius:5px;padding:2px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" alt="Markdown"/>
