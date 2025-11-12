@@ -1,12 +1,14 @@
-# Hi there, I'm Veena 👋  
+<p align="center">
+  <img src="assets/banner.png" alt="Banner: Hi I'm Veena. Building the bridge between AI, Cloud, and Real-World Systems." width="100%">
+</p>  
 
-**Aspiring AI/ML & Cloud Engineer | Data & Analytics Nerd | Builder of Super Cool Projects**  
+**AI/ML × Cloud × Data Engineering — turning real-world challenges into deployable systems.**  
 📍 Dallas, TX  
 🌐 [LinkedIn](https://www.linkedin.com/in/veenakvenugopal/) · 🧠 [Portfolio](https://veena-dev.netlify.app/) · 🧩 [LeetCode](https://leetcode.com/u/VeenaKV/)  
 
 ---
 
-## About Me  
+## 💡 About Me  
 
 I’m a data-driven problem solver with ~4 years of **IT support + data** experience, now transitioning into **AI/ML, Cloud, and Data Engineering**.
 
@@ -19,8 +21,7 @@ If you like **practical AI, thoughtful APIs, and clean data workflows**, we’ll
 
 ---
 
-## Featured Projects (Live & Active)
-
+## 🚧 Featured Projects
 These are projects you can actually click, run, or see in action:
 
 ### 🔍 InsightLens – Chrome Built-in AI Challenge 2025  
@@ -80,7 +81,7 @@ A growing collection of **SQL interview-style problems** (DataLemur, LeetCode, e
 
 ---
 
-## In-Progress & Upcoming Builds
+## 🧩 In-Progress & Upcoming Builds
 
 These are part of my “Super Cool Projects” roadmap – some have code, some are still in the design/early implementation stage.
 
@@ -136,45 +137,96 @@ They’re not “perfect”, but they show how I practice, refactor, and grow.
 
 ---
 
-## Tech Stack
+## ⚙️ Tech Stack
 
 **Core Languages**  
-- Python · SQL · Java · C · C++
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="SQL"/>
+</p>
+
+<br><br>
 
 **Data & ML**  
-- NumPy, Pandas  
-- scikit-learn (classical ML)  
-- Hugging Face (exploring)  
-- Basic vector search & embeddings concepts
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="scikit-learn"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="40" height="40" alt="Hugging Face"/>
+</p>
+
+Exploring vector search, embeddings, and retrieval workflows.
+
+<br><br>
 
 **Backend & APIs**  
-- FastAPI · Node/Express (beginner)  
-- RESTful API design  
-- JSON schemas, basic validation
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="40" height="40" alt="JSON"/>
+</p>
+
+RESTful APIs, input validation, and schema design.
+
+<br><br>
 
 **Frontend & UI**  
-- React · Vite · Tailwind CSS  
-- HTML5 · modern CSS  
-- Accessible, responsive layouts
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40" alt="Vite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+</p>
+
+Responsive, accessible layouts and clean component structure.
+
+<br><br>
 
 **Cloud & Infra**  
-- AWS (Cloud Practitioner prep: S3, Lambda, basic IAM concepts)  
-- Google Cloud Run (containerized deployments)  
-- Render, Netlify for quick deploys  
-- Docker (currently learning & using in dev)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+</p>
+
+AWS (S3, Lambda, IAM) · Google Cloud Run · Render · Netlify
+
+<br><br>
 
 **Data & Analytics**  
-- PostgreSQL, SQLite  
-- Basic dashboards (Streamlit, spreadsheets)  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40" height="40" alt="Streamlit"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Google Sheets"/>
+</p>
+
+Streamlit dashboards · Data exploration · Reporting
+
+<br><br>
 
 **Tools & Workflow**  
-- Git & GitHub (branches, PRs, tags, releases)  
-- VS Code, Jupyter  
-- Markdown, Devpost-style writeups, README-driven development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" alt="Markdown"/>
+</p>
+
+Git branching · PRs · tagging · release management  
+Markdown documentation · Devpost-style storytelling
 
 ---
 
-## Currently Learning & Working On
+## 📚 Currently Learning & Working On
+
 
 - **Stronger DSA in Python** (to support backend + ML work)  
 - **AWS certifications** (Cloud Practitioner first, AI/ML later)  
