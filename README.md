@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Veena GitHub Banner" width="100%">
+  <img src="assets/veena_github_banner.svg" alt="Veena GitHub Banner" width="100%">
 </p>  
 
 <p align="center">
